@@ -4,10 +4,10 @@ This project focuses on Image Segmentation, which involves labeling each pixel o
 
 **Applications**:
 
--Medical science: Assisting in the analysis of medical images.
+* Medical science: Assisting in the analysis of medical images.
 
--Self-driven cars: Improving the accuracy of object detection.
+* Self-driven cars: Improving the accuracy of object detection.
 
--Satellite imaging: Enhancing the interpretation of satellite images.
+* Satellite imaging: Enhancing the interpretation of satellite images.
 
--Image Segmentation studies the image at the lowest level to achieve precise results.
+Image Segmentation studies the image at the lowest level to achieve precise results.
